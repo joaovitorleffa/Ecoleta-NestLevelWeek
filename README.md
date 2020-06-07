@@ -5,4 +5,4 @@ Durante o desenvolvimento do back-end de Diego (CTO do RocketSeat), você aprend
 Além do que foi passado pelo Diego, resolvi criar mais uma rota para excluir os pontos de coleta.
 ## 2. Web front-end
 Para a contração do Front-end foi usado o ReactJS. Aprendi um pouco mais sobre rotas, conexão a API com eixos, mapas e Hooks.
-! [Web front-end] (./ assets / front-end-web.gif)
+![Web front-end](./ assets / front-end-web.gif)
