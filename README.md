@@ -15,4 +15,5 @@ Certamente o desenvolvimento mobile foi o maior desafio para mim. Eu já possuia
 ![Home Mobile](./assets/home-app.png) 
 ![Points](./assets/points-mobile.png) 
 ![Details](./assets/details-mobile.png)
-
+## 4. Conclusão
+Fazer o Next Level Week foi muito importante para meu crescimento como programador, tanto no quesito técnico, quanto na forma de como lidar com problemas. Além disso participar da comunidade no Discord foi excelente, interagir com outras pessoas que estão em busca de um mesmo objetivo é invrível. Portanto, só tenho a agradecer a [Rockeseat](https://rocketseat.com.br/) pelo conteúdo gratuito de ótima qualidade e que sem dúvidas me ajudou muito no meu desenvolvimento profissional.
