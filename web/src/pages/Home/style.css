@@ -1,8 +1,8 @@
 #page-home {
   height: 100vh;
-  background: url('../../assets/home-background.svg') no-repeat bottom;
-  background-position-y: 100px;
-  background-position-x: 550px;
+  background: url('../../assets/home-background.svg') no-repeat 600px bottom;
+  /* background-position-y: 100px;
+  background-position-x: 550px; */
 }
 
 #page-home .content {
@@ -23,7 +23,7 @@
 
 #page-home .content main {
   flex: 1;
-  max-width: 560px;
+  max-width: 450px;
 
   display: flex;
   flex-direction: column;
@@ -84,7 +84,11 @@
   background: #2FB86E;
 }
 
-@media(max-width: 900px) {
+@media(max-width: 1300px) {
+  #page-home {
+    background: none;
+  }
+
   #page-home .content {
     align-items: center;
     text-align: center;
