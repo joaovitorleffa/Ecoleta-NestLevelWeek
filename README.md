@@ -11,5 +11,5 @@ Para a contração do Front-end foi usado o ReactJS. Aprendi um pouco mais sobre
 ![Web front-end](./assets/front-end-web.gif)
 ## 3. Mobile
 Certamente o desenvolvimento mobile foi o maior desafio para mim. Eu já possuia algum conhecimento básico sobre desenvolvimento mobile, mas com Flutter, por isso essa foi a parte do projeto que mais me deu trabalho :grimacing:, no entanto, foi onde eu mais aprendi coisas novas. 
-![Home Mobile](./assets/home-mobile.png =250x ) ![Points](./assets/points.png =250x) ![Details](./assets/details.png =250x)
+![Home Mobile](./assets/home-mobile.png) ![Points](./assets/points.png) ![Details](./assets/details.png)
 
