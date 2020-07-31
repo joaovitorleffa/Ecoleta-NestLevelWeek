@@ -1,5 +1,5 @@
 ![Ecoleta](./assets/logo.svg)
-## Techs
+## 1. Technologies
 * TypeScript
 * Node.js
 * React.JS
